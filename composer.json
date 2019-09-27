@@ -1,5 +1,5 @@
 {
-    "name": "onecentlin/laravel-adminer",
+    "name": "qwertywelch/laravel-adminer",
     "description": "Laravel Adminer Database Manager",
     "keywords": ["laravel5", "adminer", "database", "management", "mysql", "sqlite"],
     "license": "MIT",
